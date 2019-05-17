@@ -1450,4 +1450,6 @@
      <string name="yellowpage_user_profile">Профил</string>
      <string name="yesterday">Јуче</string>
      <string name="zero_items_selected">"Одаберите ставке"</string>
+     <string name="confirm_call_log_dial_title">Потврда бирања недавно позиваних бројева</string>
+     <string name="confirm_call_log_dial_summary">Захтева потврду пре бирања из евиденције позива да бисте спречили случајне позиве.</string>
 </resources>
